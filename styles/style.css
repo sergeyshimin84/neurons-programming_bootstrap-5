@@ -1,0 +1,8 @@
+.header-row {
+    justify-content: space-between;
+}
+
+.header-col-nav {
+    display: flex;
+    justify-content: space-around;
+}
